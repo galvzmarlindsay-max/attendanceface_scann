@@ -37,7 +37,7 @@ def get_attendance_data():
 # 2. SIDEBAR NAVIGATION
 with st.sidebar:
     st.title("🛡️ Admin Panel")
-    st.subheader("Aktibong Guro: Admin")
+    st.subheader("active teacher: Admin")
     st.write("---")
     
     # Inayos na Radio Button (May Label at maayos ang Options base sa huling error)
